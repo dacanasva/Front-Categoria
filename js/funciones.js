@@ -1,6 +1,6 @@
 
-
-const url = 'http://localhost:8282/categoria'
+const url = 'https://api-proyecto-categoria.onrender.com/categoria'
+// const url = 'https://api-proyecto-categoria.onrender.com/categoria'
 const objectId = document.getElementById('contenido');
 
 const listarCategoria = async () => {
